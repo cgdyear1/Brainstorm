@@ -1,4 +1,6 @@
 # Brainstorm
 Planning the game
 
-This is where you should edit and not in the main create your own edit for readme
+You should create your own your own branch and then compare the edits and then merge the documents please do this then leave your name at the bottom so as you merge it will add your name to the list below
+
+(Luke)
